@@ -2,7 +2,7 @@
 
 Code for "Explainability methods for graph convolutional neural networks" - PE Pope*, S Kolouri*, M Rostami, CE Martin, H Hoffmann (CVPR 2019)
 
-[paper](openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
 
 _"With the growing use of graph convolutional neural networks (GCNNs) comes the need for explainability. In thispaper, we introduce explainability methods for GCNNs. We develop the graph analogues of three prominent explain-ability methods for convolutional neural networks: contrastive gradient-based (CG) saliency maps, Class Activation Mapping (CAM), and Excitation Backpropagation (EB) and their variants, gradient-weighted CAM (Grad-CAM)i and contrastive EB (c-EB). We show a proof-of-concept ofthese methods on classification problems in two applicationi domains: visual scene graphs and molecular graphs. Tocompare the methods, we identify three desirable propertiesi of explanations: (1) their importance to classification, asmeasured by the impact of occlusions, (2) their contrastivity with respect to different classes, and (3) their sparseness on a graph. We call the corresponding quantitative metrics fidelity, contrastivity, and sparsity and evaluate them for each method. Lastly, we analyze the salient subgraphs obtained from explanations and report frequently occurring patterns."_
 
