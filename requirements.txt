@@ -1,4 +1,4 @@
 jupyter
 deepchem==2.1.0
-keras==2.13.1
+keras==3.12.0
 chainer_chemistry
